@@ -22,8 +22,8 @@ See `src/styles/element/index.scss`
 
 # Development Plan
 
-- [ ] Query by ID
-- [ ] Province Classification
+- [x] Query by ID
+- [x] Province Classification
 - [x] Integration with YuGaoLian Joint Server
     - [x] Template Design
 - [ ] OAuth2 Authentication
